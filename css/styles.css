@@ -1,0 +1,13 @@
+.blockquote {
+  border: solid;
+  background-color: black;
+  color: aliceblue;
+}
+body {
+  background-color: rgb(242, 242, 242);
+}
+
+.col-4 {
+  border: solid;
+  background-color: rgb(233, 236, 239);
+}
